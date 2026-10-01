@@ -13,13 +13,13 @@
 <p align="center">
   Mi nombre es cristhian y construyo aplicaciones web modernas, escalables y bien estructuradas.<br/>
   Enfocado en buenas prácticas, rendimiento y mantenibilidad con tecnologias como: <br>
-  Vue 3, Nuxt, Astro, Java, Spring Boot y PostgreSQL
+  Vue 3, Nuxt, Astro, Java, ASP.net y PostgreSQL
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,astro,java,spring,postgresql" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,astro,net,postgresql" />
 </p>
 
 
